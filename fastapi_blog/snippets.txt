@@ -1,0 +1,16 @@
+posts: list[dict] = [
+{
+    "id":"1",
+    "author":"Krishna",
+    "title":"Krishna_1",
+    "content":"asdfghj"
+    "date_posted":"April 20, 2025:
+},
+{
+    "id":"2",
+    "author":"Rama",
+    "title":"Rama_1",
+    "content":"asdfghj"
+    "date_posted":"April 20, 2025:
+}
+]
